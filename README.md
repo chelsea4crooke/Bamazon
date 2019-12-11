@@ -11,15 +11,15 @@
 
 **How to use Bamazon:**
 
-(/images/bamazon1.png)
+(./images/bamazon1.png)
 
     This first image is showing a successful connection to node as well as the results when the command node bamazon.js is typed. This command populates the MySQL database. As well as asking what item the customer would like to buy and then giving an option to quit the transaction. 
 
-(/images/bamazon2.png)
+(./images/bamazon2.png)
 
     This images shows the prompt that pops us when node bamazon.js command is run which is asking which item the customer would like to buy. Once that Item is chosen node prompts the next question of how many. Once this quantity is entered there is a confirmation statement and the quantity next to the purchased item decreases. 
 
-(/images/bamazon3.png)
+(./images/bamazon3.png)
 
     Same information as the previous image, this one also includes the prompt after the previous item was purchased. Node is again asking the customer what item they would like and giving an option to quit. 
 
