@@ -10,10 +10,8 @@
             5. Stock_quantity
 
 **How to use Bamazon:**
+![This first image is showing a successful connection to node as well as the results when the command node bamazon.js is typed. This command populates the MySQL database. As well as asking what item the customer would like to buy and then giving an option to quit the transaction. ](./images/bamazon1.png)
 
-(./images/bamazon1.png)
-
-    This first image is showing a successful connection to node as well as the results when the command node bamazon.js is typed. This command populates the MySQL database. As well as asking what item the customer would like to buy and then giving an option to quit the transaction. 
 
 (./images/bamazon2.png)
 
