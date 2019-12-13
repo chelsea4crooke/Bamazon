@@ -2,12 +2,12 @@
 
 ## **About this App:**
 
-    Bamazon is an Amazon like storefront with MySQL and node tricks. MySQL is used to create a database of products for the customer to choose from. Inside the products table is populated with 10 items these columns:
-            1. Item_id
-            2. Product_name
-            3. Department_name
-            4. Price
-            5. Stock_quantity
+Bamazon is an Amazon like storefront with MySQL and node tricks. MySQL is used to create a database of products for the customer to choose from. Inside the products table is populated with 10 items these columns:
+         1. Item_id
+         2. Product_name
+         3. Department_name
+         4. Price
+         5. Stock_quantity
 
 ## **How to use Bamazon:**
 
@@ -38,11 +38,11 @@
 
 ### **Summary:**
 
-    MySQL creates a database of products that will be available for purchase once the node command is run. The customer will then be prompted through the options and the results will be output in the terminal.
+MySQL creates a database of products that will be available for purchase once the node command is run. The customer will then be prompted through the options and the results will be output in the terminal.
 
 ## **Deployed Version Link:**
 
-    https://chelsea4crooke.github.io/Bamazon/
+https://chelsea4crooke.github.io/Bamazon/
 
 #### **Technologies Used:**
 
