@@ -3,6 +3,7 @@
 ## **About this App:**
 
 Bamazon is an Amazon like storefront with MySQL and node tricks. MySQL is used to create a database of products for the customer to choose from. Inside the products table is populated with 10 items these columns:
+
          1. Item_id
          2. Product_name
          3. Department_name
