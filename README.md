@@ -42,7 +42,7 @@
 
 ## **Deployed Version Link:**
 
-    (https://chelsea4crooke.github.io/Bamazon/)
+    https://chelsea4crooke.github.io/Bamazon/
 
 #### **Technologies Used:**
 
